@@ -1,0 +1,71 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogHeight" value="389" />
+    <option name="newTranslationDialogWidth" value="791" />
+    <option name="newTranslationDialogX" value="650" />
+    <option name="newTranslationDialogY" value="139" />
+    <histories>
+      <item value="Over the last 30 days JRebel prevented" />
+      <item value="Indicates whether the connection is in &quot;queue&quot;(or &quot;MULTI&quot;) mode or not. When queueing, all commands are postponed until EXEC or DISCARD commands are issued. Since in queueing no results are returned, the connection will return NULL on all operations that interact with the data.&#10;Returns:&#10;true if the connection is in queue/MULTI mode, false otherwise" />
+      <item value="selenium" />
+      <item value="Possibly initiates an orderly shutdown in which previously submitted tasks are executed, but no new tasks will be accepted. Invocation has no effect on execution state if this is the {@link commonPool()}, and no additional effect if already shut down. Tasks that are in the process of being submitted concurrently during the course of this method may or may not be rejected. @throws SecurityException if a security manager exists and the caller is not permitted to modify threads because it does not hold {@link java.lang.RuntimePermission}{@code (&quot;modifyThread&quot;)}" />
+      <item value="原子" />
+      <item value="Autom I" />
+      <item value="Raw use of parameterized class 'RedisSerializer' " />
+      <item value="e" />
+      <item value="The request to the App Store was not made using the HTTP POST request method." />
+      <item value="If you don't want click extra trigger collapse, you can prevent this:" />
+      <item value="第三" />
+      <item value="company" />
+      <item value="campany" />
+      <item value="shape shadow color" />
+      <item value="Unconditional classes" />
+      <item value="Unconditional" />
+      <item value="Returns the content of the current canvas as an image that you can use as a source for another canvas or an HTML element. * @param type The standard MIME type for the image format to return. If you do not specify this parameter, the default value is a PNG format image." />
+      <item value="Cropper" />
+      <item value="Failed to configure a DataSource: 'url' attribute is not specified and no embedded datasource could be configured." />
+      <item value="The explicit or implicit default constraint validator initialization context" />
+      <item value="formate" />
+      <item value="format" />
+      <item value="Parameter 2 of constructor" />
+      <item value="Learn basic shortcuts and essential features interactively — right inside the IDE. No need to read long manuals or look for screencasts. Just install this plugin, and open with the Help | IDE Features Trainer menu item" />
+      <item value="Delegating" />
+      <item value="Specifies the component model to which the generated mapper should * adhere. Supported values are * &lt;ul&gt; * &lt;li&gt; {@code default}: the mapper uses no component model, instances are * typically retrieved via {@link Mappers#getMapper(Class)}&lt;/li&gt; * &lt;li&gt; * {@code cdi}: the generated mapper is an application-scoped CDI bean and * can be retrieved via {@code @Inject}&lt;/li&gt; * &lt;li&gt; * {@code spring}: the generated mapper is a Spring bean and * can be retrieved via {@code @Autowired}&lt;/li&gt; * &lt;li&gt; * {@code jsr330}: the generated mapper is annotated with {@code @javax.inject.Named} and * {@code @Singleton}, and can be retrieved via {@code @Inject}&lt;/li&gt; * &lt;/ul&gt; * The method overrides an unmappedTargetPolicy set in a central configuration set * by {@link #config() } * * @return The component model for the generated mapper." />
+      <item value="PROTECTED" />
+      <item value="Decryption error" />
+      <item value="captcha" />
+      <item value="ant Patterns" />
+      <item value="* Interface to be implemented by beans that need to react once all their properties * have been set by a {@link BeanFactory}: e.g. to perform custom initialization, * or merely to check that all mandatory properties have been set. * * &lt;p&gt;An alternative to implementing {@code InitializingBean} is specifying a custom * init method, for example in an XML bean definition. For a list of all bean * lifecycle methods, see the {@link BeanFactory BeanFactory javadocs}." />
+      <item value="Authorization" />
+      <item value="两倍" />
+      <item value="人员" />
+      <item value="项目" />
+      <item value="circuitBreaker" />
+      <item value="There was a problem with the instance info replicator" />
+      <item value="51 packages are looking for funding " />
+      <item value="filter" />
+      <item value="Predicate that evaluates the supplied ant pattern" />
+      <item value="qualifies" />
+      <item value="amend" />
+      <item value="expected at least 1 bean which qualifies as autowire candidate" />
+      <item value="qualifying" />
+      <item value="No qualifying bean of type" />
+      <item value="Encrypt" />
+      <item value="Entry" />
+      <item value="Authentication Entry Point" />
+      <item value="uthentication Entry Point" />
+      <item value="Synchronized" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="73" />
+        <entry key="ENGLISH" value="74" />
+        <entry key="CHINESE_TRADITIONAL" value="7" />
+        <entry key="VIETNAMESE" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1614361048567" />
+  </component>
+</application>

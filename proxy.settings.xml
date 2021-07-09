@@ -1,0 +1,9 @@
+<application>
+  <component name="HttpConfigurable">
+    <option name="PROXY_HOST" value="127.0.0.1" />
+    <option name="PROXY_PORT" value="10809" />
+    <option name="PROXY_AUTHENTICATION" value="true" />
+    <option name="USE_PAC_URL" value="true" />
+    <option name="PAC_URL" value="http://127.0.0.1:1080/pac?auth=M5siqal-zmG4YRtRmAux&amp;t=201906270917069562" />
+  </component>
+</application>

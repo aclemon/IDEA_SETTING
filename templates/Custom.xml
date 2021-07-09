@@ -1,0 +1,20 @@
+<templateSet group="Custom">
+  <template name="logger" value="private static Logger logger = LoggerFactory.getLogger($className$.class);" description="日志模板" toReformat="false" toShortenFQNames="true" useStaticImport="true">
+    <variable name="className" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="test" value="@Test&#10;public void test$name$(){&#10;    $END$&#10;}" description="测试模板" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="log" value="Console.log(&quot;$anchor$=&gt;&quot;+$END$);" description="快速打印" toReformat="false" toShortenFQNames="true">
+    <variable name="anchor" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
